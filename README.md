@@ -1,0 +1,2 @@
+# AS1-CollectNewspaperKarel
+Assignment1-CollectNewspaperKarel
